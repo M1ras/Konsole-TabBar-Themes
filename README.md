@@ -1,5 +1,5 @@
 # Konsole Tab Bar Themes
-Konsole tab bar themes.  
+A collection of Konsole tab bar themes.  
 No `npm install`, no Sass compiling, just plain css.
 
 ## Applying

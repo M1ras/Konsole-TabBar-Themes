@@ -1,0 +1,21 @@
+QTabBar {
+  background: #EFF0F1;
+  padding-bottom: 10px;
+}
+
+QTabBar::tab {
+  background: #EFF0F1;
+  padding: 8px;
+  border-bottom: 2px solid transparent;
+
+  font-size: 14px;
+  color: #31363B;
+}
+
+QTabBar::tab:hover {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+}
+
+QTabBar::tab:selected {
+  border-bottom: 2px solid rgba(0, 0, 0, 1);
+}
